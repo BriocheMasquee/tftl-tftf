@@ -1,2 +1,2 @@
 # tftl
-Exploirateurs de bruines game system for Encounter+
+Tales from the Loop / Things from the Flood game system for Encounter+
